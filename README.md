@@ -13,10 +13,10 @@ Welcome to my GitHub profile! I’m passionate about building impactful software
 - **Others:** Netlify, Render, Railway, GitHub Pages (for deployments), Markdown, Readme Optimization
 ## 🧩 Projects & Featured Work
 
-- 🔍 [**Deepfake Detection Frontend**](https://github.com/Rajeevgithu/Deepfake-Detection)  
+- 🔍 [**Deepfake Detection**](https://github.com/Rajeevgithu/Deepfake-Detection)  
   Real-time face analysis app using **DeepFace**, **Flask**, and **React**.
 
-- 💸 [**Budget Tracker**](https://github.com/Rajeevgithu/Budget-Tracker)  
+- 💸 [**Budget Tracker**](https://github.com/Springboard-Internship-2024/Budget-Tracker_Feb_2025)
   Django-based app for tracking expenses with **PostgreSQL** and **Chart.js**.
 
 - 🛍️ [**E-Commerce Website**](https://github.com/Rajeevgithu/E-Commerce-Website)  
